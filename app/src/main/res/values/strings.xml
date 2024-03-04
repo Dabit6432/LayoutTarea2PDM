@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LayoutTarea2</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+        "\\"_____________________/"\n"
+        ___/"\\"_____________/"\\"___"\n"
+        //()()_____________()()"\\""\\""\n"
+        ||___/___NISMO___"\\"___||"\n"
+        "\\"_00_|_|_|_____|_|_|_00_/"\n"
+    </string>
+</resources>
